@@ -1,0 +1,1 @@
+Dentro desta pasta ira ter outras pastas com os respectivos personagens e seus scripts, alinhar seus sprites na pasta sprites a fora, o jogo tem que ser facilmente modavel.
